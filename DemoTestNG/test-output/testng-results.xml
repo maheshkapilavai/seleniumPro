@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Sample3]]>
+    </line>
+    <line>
+      <![CDATA[Sample1]]>
+    </line>
+    <line>
+      <![CDATA[Sample3]]>
+    </line>
+    <line>
+      <![CDATA[Sample3]]>
+    </line>
+    <line>
+      <![CDATA[Sample1]]>
+    </line>
+    <line>
+      <![CDATA[Sample2]]>
+    </line>
+    <line>
+      <![CDATA[Sample2]]>
+    </line>
+    <line>
+      <![CDATA[Sample1]]>
+    </line>
+    <line>
+      <![CDATA[Sample2]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-31T20:41:42 IST" name="Suite" finished-at="2024-07-31T20:41:42 IST" duration-ms="154">
+    <groups>
+    </groups>
+    <test started-at="2024-07-31T20:41:42 IST" name="Test" finished-at="2024-07-31T20:41:42 IST" duration-ms="154">
+      <class name="com.tsetng.demo.Batch.Sample1">
+        <test-method signature="TC2()[pri:0, instance:com.tsetng.demo.Batch.Sample1@57af006c]" started-at="2024-07-31T20:41:42 IST" name="TC2" finished-at="2024-07-31T20:41:42 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC1()[pri:0, instance:com.tsetng.demo.Batch.Sample1@57af006c]" started-at="2024-07-31T20:41:42 IST" name="TC1" finished-at="2024-07-31T20:41:42 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method signature="TC3()[pri:0, instance:com.tsetng.demo.Batch.Sample1@57af006c]" started-at="2024-07-31T20:41:42 IST" name="TC3" finished-at="2024-07-31T20:41:42 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- com.tsetng.demo.Batch.Sample1 -->
+      <class name="com.tsetng.demo.Batch.Sample2">
+        <test-method signature="TC2()[pri:0, instance:com.tsetng.demo.Batch.Sample2@d29f28]" started-at="2024-07-31T20:41:42 IST" name="TC2" finished-at="2024-07-31T20:41:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC3()[pri:0, instance:com.tsetng.demo.Batch.Sample2@d29f28]" started-at="2024-07-31T20:41:42 IST" name="TC3" finished-at="2024-07-31T20:41:42 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method signature="TC1()[pri:0, instance:com.tsetng.demo.Batch.Sample2@d29f28]" started-at="2024-07-31T20:41:42 IST" name="TC1" finished-at="2024-07-31T20:41:42 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+      </class> <!-- com.tsetng.demo.Batch.Sample2 -->
+      <class name="com.tsetng.demo.Batch.Sample3">
+        <test-method signature="TC2()[pri:0, instance:com.tsetng.demo.Batch.Sample3@66498326]" started-at="2024-07-31T20:41:42 IST" name="TC2" finished-at="2024-07-31T20:41:42 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method signature="TC1()[pri:0, instance:com.tsetng.demo.Batch.Sample3@66498326]" started-at="2024-07-31T20:41:42 IST" name="TC1" finished-at="2024-07-31T20:41:42 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method signature="TC3()[pri:0, instance:com.tsetng.demo.Batch.Sample3@66498326]" started-at="2024-07-31T20:41:42 IST" name="TC3" finished-at="2024-07-31T20:41:42 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Sample3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- com.tsetng.demo.Batch.Sample3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
